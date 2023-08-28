@@ -6,7 +6,7 @@
     1. This one a sublist which is numbered
     2. And this is the second item
     
-![](img/rufus)
+![](img/rufus_bliss.png)
 
 
 
